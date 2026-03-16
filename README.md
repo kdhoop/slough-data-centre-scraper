@@ -52,3 +52,7 @@ The script generates a real-time Executive Dashboard in the terminal and exports
 ### Value Added
 
 In the data centre sector, identifying power and land capacity ahead of the market is a primary competitive advantage. This tool reduces manual survey time significantly, allowing developers to focus on technical due diligence and land acquisition rather than document discovery.
+
+## Potential Improvements
+* Use Parallelisation to speed the process when considering multiple councils.
+* Clean the format of the output units.
