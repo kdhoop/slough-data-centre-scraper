@@ -56,3 +56,4 @@ In the data centre sector, identifying power and land capacity ahead of the mark
 ## Potential Improvements
 * Use Parallelisation to speed the process when considering multiple councils.
 * Clean the format of the output units.
+* Filter out irrelevant documents.
